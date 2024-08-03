@@ -4,6 +4,9 @@
 
 -Enviar el enlace del repositorio a Github
 
+Nombre: Mateo Silva
+
+
 ## preorden
 ![Captura-de-pantalla-2024-08-03-162548.png](https://i.postimg.cc/B6VDcZ3y/Captura-de-pantalla-2024-08-03-162548.png)
 
@@ -14,7 +17,7 @@
 
 ![Captura-de-pantalla-2024-08-03-162716.png](https://i.postimg.cc/Df45jHNs/Captura-de-pantalla-2024-08-03-162716.png)
 
-##Como Ejecutar el Programa
+## Como Ejecutar el Programa
 
 -Primero descargamos el archivo 
 
